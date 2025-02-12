@@ -14,6 +14,6 @@ int main(){
         }
         printf("%d\n", i);
     }
-// cannot open source file "stdio.h". Please run the 'Select IntelliSense Configuration...' command to locate your system headers.
+
     return 0;
 }
